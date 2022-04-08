@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PT7", "PT7.csproj", "{6CE02ADB-B980-4AE4-B121-17C83C781524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CE02ADB-B980-4AE4-B121-17C83C781524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE02ADB-B980-4AE4-B121-17C83C781524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE02ADB-B980-4AE4-B121-17C83C781524}.Debug|x86.ActiveCfg = Debug|x86
+		{6CE02ADB-B980-4AE4-B121-17C83C781524}.Debug|x86.Build.0 = Debug|x86
+		{6CE02ADB-B980-4AE4-B121-17C83C781524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE02ADB-B980-4AE4-B121-17C83C781524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE02ADB-B980-4AE4-B121-17C83C781524}.Release|x86.ActiveCfg = Release|x86
+		{6CE02ADB-B980-4AE4-B121-17C83C781524}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4D8D7A2-F644-4A01-B9F0-F84C883D56C7}
+	EndGlobalSection
+EndGlobal

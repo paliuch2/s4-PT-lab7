@@ -1,0 +1,11 @@
+C:\Users\kamil\source\repos\PT7\bin\Debug\netcoreapp3.1\PT7.exe
+C:\Users\kamil\source\repos\PT7\bin\Debug\netcoreapp3.1\PT7.deps.json
+C:\Users\kamil\source\repos\PT7\bin\Debug\netcoreapp3.1\PT7.runtimeconfig.json
+C:\Users\kamil\source\repos\PT7\bin\Debug\netcoreapp3.1\PT7.runtimeconfig.dev.json
+C:\Users\kamil\source\repos\PT7\bin\Debug\netcoreapp3.1\PT7.dll
+C:\Users\kamil\source\repos\PT7\bin\Debug\netcoreapp3.1\PT7.pdb
+C:\Users\kamil\source\repos\PT7\obj\Debug\netcoreapp3.1\PT7.csprojAssemblyReference.cache
+C:\Users\kamil\source\repos\PT7\obj\Debug\netcoreapp3.1\PT7.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\PT7\obj\Debug\netcoreapp3.1\PT7.AssemblyInfo.cs
+C:\Users\kamil\source\repos\PT7\obj\Debug\netcoreapp3.1\PT7.dll
+C:\Users\kamil\source\repos\PT7\obj\Debug\netcoreapp3.1\PT7.pdb
